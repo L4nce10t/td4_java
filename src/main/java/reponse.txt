@@ -1,0 +1,15 @@
+Exercice 1
+
+2) Pour cela il rajouter une méthode a la classe StaticLogger, ce qui violerait le priincipe SOLID de la responsabilité unique
+
+Exercice 2
+
+1) En créant une classe qui va contenir une méthode qui va permettre à l'utilisateur de choisir le materiau du constructeur
+
+Exercice 3
+
+3.2) Il faut créer une classe Train qui va implementer l'interface Transport et ainsi respecter le design patterns Factory Method
+
+Exercice 4
+
+4.2)
